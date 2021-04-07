@@ -24,7 +24,7 @@
         android:id="@+id/toControlsBtn"
         android:layout_width="117dp"
         android:layout_height="51dp"
-        android:layout_marginBottom="172dp"
+        android:layout_marginBottom="144dp"
         android:background="@drawable/btnbackground"
         android:text="CONTROLS"
         android:textColor="#0F0F3B"
